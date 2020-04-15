@@ -1,0 +1,96 @@
+  <html>
+<head>
+ <b><center><p style="background-color:lightblue;">Home About Contact Us</b></center></p>
+<title>  INDIAN ELECTRICITY PAY COUNTER </title>
+<style>
+div{
+color:darkblue;
+border-style:solid;
+border-color:brown;
+background-color:white;
+}
+body{ 
+background-image:url("1234.jpg");
+background-position:center;
+}
+a:hover{
+color:red;
+text-decoration:underline;
+font-size:30px;
+}
+</style>
+</head>
+<body>
+<table>
+<tr>
+<td><div>
+<h1><p style="background-color:lightblue;">Login</h1></p>
+      User Name <input type="text"><br>
+      Password <input type="password"><br>
+<input type="Submit">   <input type="Reset">
+</div>
+<td><div><p=width:300; height:500px;>
+<marquee>
+<b><i><h1><p style="background-color:lightblue;text-shadow:3px 3px  green;">TIPS: NO-COST WAYS TO SAVE ELECTRICTY</h1></b></i></p>
+</marquee>
+1. Turn off unnecessary lights<br>
+2. Use natural light<br>
+3. Use task lighting<br>
+4. Take shorter showers<br>
+5. Fix that leaky faucet<br>
+6. Unplug unused electronics<br>
+7. Ditch the desktop computer<br>
+8. Not home? Turn off the air conditioner<br>
+9. Recycle or donate that old TV<br>
+10. Be strategic with window coverings<br>
+11. Reduce heat in the kitchen<br>
+12. Wash laundry in cold<br>
+13. Hang dry your laundry<br>
+14. Toss a towel in the dryer<br>
+</div>
+</td>
+</p>
+<td><div>
+<h2><b><p style="background-color:lightblue;"> Quick Links</b></h2></p>
+       1.<a href="https://paytm.com/electricity-bill-payment">        Pay Your Bills</a><br>
+       2.<a href="https://link.springer.com/article/10.1007/BF00411633">  Consumption History</a><br>
+       3.<a href="https://www.google.com/search?q=nearest+service+of+electricity&rlz=1C1CHBF_enIN858IN858&oq=nearset+service+of+ele&aqs=chrome.1.69i57j33l7.16353j1j7&sourceid=chrome&ie=UTF-8">  Nearest Service</a><br>
+       4.<a href="https://www.uppclonline.com/dispatch/Portal/appmanager/uppcl/wss?_nfpb=true&_pageLabel=uppcl_manageaccount_newConnection&pageID=MA_1008">  New Connection</a><br>
+       5.<a href="https://economictimes.indiatimes.com/news/india-unlimited/24x7-power">#24*7 Power</a><br>
+</div>
+</td>
+</tr>
+<tr>
+<td><div>
+<font size="7"> <p style="background-color:lightblue;">FAQs</font><br></p>
+1-Do you pay more for prepaid electricity?<br>
+
+2-Why is prepaid electricity more expensive?<br>
+
+3-How long is a prepaid electricity voucher valid for?<br>
+
+4-How does pre paid electricity work?<br>
+</div>
+</td>
+<td>
+</td>
+<td>
+<div><b><font size="5"><p style="background-color:lightblue;">High Consumption States</font></b><br></p>
+1- Maharashtra<br>
+2-Gujarat<br>
+3-Tamil Nadu<br>
+4-Andhra Pradesh<br>
+5-Uttar Pradesh<br>
+<center><u>continue</center></u>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+<center><p style="background-color:lightblue;">@ INDIAN ELECTRICITY</center></p>
+</tr>
+</table>
+</body>
+</html>
